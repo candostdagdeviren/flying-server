@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [npm vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.8d9bsj2tz) - 14.10.2016
 - [Intro to Simple Docker with Node & Koa](http://blog.bandwidth.com/intro-to-simple-docker-with-node-koa/) - 06.10.2016
 - [Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools) - 30.09.2016
 - [15 Essential Packages to Get Started with Electron](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/) - 16.09.2016

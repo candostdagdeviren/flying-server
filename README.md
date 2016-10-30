@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [Breaking changes between Node v6 and Node v7](https://github.com/nodejs/node/wiki/Breaking-changes-between-v6-and-v7) - 30.10.2016
 - [Node v7.0.0 Released](https://nodejs.org/en/blog/release/v7.0.0/) - 30.10.2016
 - [Replacing npm with Yarn](https://dev.to/bugsnag/replacing-npm-with-yarn) - 14.10.2016
 - [npm vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.8d9bsj2tz) - 14.10.2016

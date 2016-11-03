@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [Four Node.js Gotchas that Operations Teams Should Know about](http://thenewstack.io/top-four-items-operations-performance-team-know-implementing-node-js/) - 03.11.2016
 - [Token-Based Authentication With Node](http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/) - 03.11.2016
 - [Using Yarn with Docker](https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.80zrzs2wy) - 30.10.2016
 - [Breaking changes between Node v6 and Node v7](https://github.com/nodejs/node/wiki/Breaking-changes-between-v6-and-v7) - 30.10.2016

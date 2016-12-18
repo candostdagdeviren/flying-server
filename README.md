@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [Integrating Jenkins with Github, Node.js and Slack](https://lethalbrains.com/integrating-jenkins-with-github-node-js-and-slack-e8fc4d2271b5#.d0i34ifjt) - 18.12.2016
 - [Beginner’s Guide to Installing Node.js on a Raspberry Pi](http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/) - 18.12.2016
 - [Four Node.js Gotchas that Operations Teams Should Know about](http://thenewstack.io/top-four-items-operations-performance-team-know-implementing-node-js/) - 03.11.2016
 - [Token-Based Authentication With Node](http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/) - 03.11.2016

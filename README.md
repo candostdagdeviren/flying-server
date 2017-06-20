@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [A Complete Guide To Switching From HTTP To HTTPS]https://www.smashingmagazine.com/2017/06/guide-switching-http-https/) - 20.06.2017
 - [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/) - 25.12.2016
 - [Integrating Jenkins with Github, Node.js and Slack](https://lethalbrains.com/integrating-jenkins-with-github-node-js-and-slack-e8fc4d2271b5#.d0i34ifjt) - 18.12.2016
 - [Beginner’s Guide to Installing Node.js on a Raspberry Pi](http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/) - 18.12.2016

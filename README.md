@@ -1,6 +1,7 @@
 # flying-server
 Just to keep track of nice blog posts and new announcements related to server side development and DevOps
 
+- [Introducing Kitura 2.0](https://developer.ibm.com/swift/2017/10/30/kitura-20/) - 19.11.2017
 - [Security And Your Vapor Application](https://geeks.brokenhands.io/blog/posts/security-and-your-vapor-application) - 13.11.2017
 - [A Complete Guide To Switching From HTTP To HTTPS]https://www.smashingmagazine.com/2017/06/guide-switching-http-https/) - 20.06.2017
 - [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/) - 25.12.2016
